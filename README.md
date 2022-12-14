@@ -17,7 +17,7 @@
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a >
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> </a >
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a >
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a >
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a >
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/ > </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a >
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a >
@@ -44,3 +44,16 @@
 - In the search section you can find the breed of your pet, care, food and part of history.
 - know more about this application.....
     - <a href="https://play.google.com/store/apps/details?id=comm.examplee.luisi.conocetumascota&hl=es" target="_blank">👉 aplicacion android Enciclopedia canina</a>
+
+<br />
+    
+    
+![](./assets/logo2.jpg)
+
+    
+- Home remedies is an application focused on informing the user about the healing methods that can be done with home ingredients.
+- In the main menu you will find a list with various diseases attached to their traditional remedy.
+- know more about this application......
+    - <a href="https://play.google.com/store/apps/details?id=comm.examplee.medicina_ancestral&hl=es" target="_blank">👉aplicacion android remedios caseros </a>
+    
+    
