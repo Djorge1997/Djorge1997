@@ -56,4 +56,13 @@
 - know more about this application......
     - <a href="https://play.google.com/store/apps/details?id=comm.examplee.medicina_ancestral&hl=es" target="_blank">👉aplicacion android remedios caseros </a>
     
+<br />
     
+    
+![](./assets/elecon.png)
+    
+    
+- Elecon is a mobile application dedicated to presenting the energy values recorded from a DAQ card.
+- The development language was react native using expo. The values it presents is the electrical consumption of a residence in real time, values such as voltage, amperage and power. firebase realtime was used as the database
+- know more about this application......
+    - <a href="https://github.com/Djorge1997/react_native_elecon" target ="_blank">👉Elecon </a>
