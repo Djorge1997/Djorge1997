@@ -66,3 +66,12 @@
 - The development language was react native using expo. The values it presents is the electrical consumption of a residence in real time, values such as voltage, amperage and power. firebase realtime was used as the database
 - know more about this application......
     - <a href="https://github.com/Djorge1997/react_native_elecon" target ="_blank">👉Elecon </a>
+
+<br />
+
+<p align=center>
+
+![](./assets/principal1.jpg)
+
+
+</p>
